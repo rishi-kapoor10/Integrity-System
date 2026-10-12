@@ -1,0 +1,6 @@
+{
+  "name": "INTEGRITY OS — AI-Powered Payment Integrity Intelligence",
+  "description": "An AI-first payment integrity innovation command center for discovering leakage, prioritizing automation & AI solutions, tracking pilots, modeling value realization, and enforcing AI governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
